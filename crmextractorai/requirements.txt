@@ -1,0 +1,3 @@
+openai
+faster-whisper
+streamlit

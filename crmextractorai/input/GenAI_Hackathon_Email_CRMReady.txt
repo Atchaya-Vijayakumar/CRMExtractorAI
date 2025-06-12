@@ -1,0 +1,32 @@
+From: princestanlyvictor23@gmail.com
+To: atchaya.v.ad.2022@snsce.ac.in
+Subject: GenAI Hackathon Invitation and Instruction Mail 🥳
+
+Dear ATCHAYA V,
+
+Welcome to the GenAI Hackathon 🤖! We are excited to have you with us. Here are the details and instructions:
+
+Instructions:
+
+Participants are asked to assemble in the venue (RNG Hall, SNSCT) by 8:45AM. Since verification process will be there,
+participants are asked to be come early and be seated.
+
+1st round (Technical MCQ) will be from 9:30AM to 10:30AM, conducted through Unstop. Make sure to use either a mobile or
+laptop (Unstop is not compatible with iOS).
+
+Shortlisted participants will move to the 2nd round (Coding) starting at 11:00AM. It will consist of Leetcode-style questions
+(easy, medium, hard). Participants must attend this on their laptops and ensure to bring all necessary items, including a
+charger, internet facility, and a junction box.
+
+Shortlisted participants will proceed to the live hackathon from 1:00PM to 4:30PM. You will be given 5 use cases to solve
+using your preferred tech stack, and upload your solutions to GitHub.
+
+The final results will be announced after evaluation.
+
+Please find your QR code attached below; it is essential for event entry and attendance.
+
+For more information, keep an eye on the WhatsApp group shared with you. If you're not in the group yet, please join as soon as
+possible to stay updated.
+
+Best of luck,
+Team SNS iHUB
